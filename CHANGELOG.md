@@ -1,3 +1,9 @@
+## Release 1.4.0
+
+* 8626e5b [bugfix] Update rubocop to the latest (#1)
+* f98c16e [bugfix] QA (#37)
+* 210f720 [bugfix][feature] support name--%branch (#36)
+
 ## Release 1.3.0
 
 * 81a9c9f [feature] use same defaults for debian 8 and 9
